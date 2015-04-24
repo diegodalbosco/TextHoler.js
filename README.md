@@ -2,8 +2,12 @@ TextHoler.js
 ------------
 Use this JQuery plugin to make your text like a hole in the page
 
+<img src="img/example.png" alt="This is the result">
+
 ### Basic example ###
 This is a basic usage example providing only an URL/path to locate the image
+
+The result of this example is the image above
 
 **HTML markup**
 
@@ -15,6 +19,7 @@ This is a basic usage example providing only an URL/path to locate the image
 		background: "http://i.giphy.com/fnMmGzRnQD6Ny.gif"
 	});
 	
+
 ### Available Options ###
 These are the available options with the default values
 
