@@ -2,6 +2,8 @@ TextHoler.js
 ------------
 Use this JQuery plugin to make your text like a hole in the page
 
+You can find a demo page with some <a href="http://diegodalbosco.github.io/TextHoler.js/demo.html" target="blank">examples here</a>
+
 <img src="img/example.png" alt="This is the result">
 
 ### Basic example ###
